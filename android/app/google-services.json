@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233910676083",
+    "project_id": "thewallcodedb-30731",
+    "storage_bucket": "thewallcodedb-30731.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233910676083:android:b159b4c1a05783928d5806",
+        "android_client_info": {
+          "package_name": "com.codedb.the_wall_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHaAgb5VR3MPfpVk5MVB5CuS-qnnAf6SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
